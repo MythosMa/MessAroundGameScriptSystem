@@ -1,5 +1,7 @@
 # My Game Script
 
+给 Mess Around Game (上班摸鱼做的游戏) 配套的脚本生成工具+
+
 ---
 
 ## TS
