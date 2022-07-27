@@ -1,6 +1,9 @@
 # My Game Script
 
-给 Mess Around Game (上班摸鱼做的游戏) 配套的脚本生成工具+
+给 Mess Around Game (上班摸鱼做的游戏) 配套的脚本生成工具
+摸鱼游戏项目地址在下面
+
+[摸鱼游戏](https://github.com/MythosMa/MessAroundGame)
 
 ---
 
